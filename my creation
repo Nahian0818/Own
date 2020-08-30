@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,Deepto TV
+https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
+#EXTINF:0,Sangeet Bangla
+https://itpolly.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
+#EXTINF:0,Star Jalsha Hd
+https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
+#EXTINF:0,Star Plus
+https://itpolly.iptv.digijadoo.net/live/star_plus/chunks.m3u8
+#EXTINF:0,StarPlus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:0,Star Gold HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:0,Zee Cinema
+https://itpolly.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
+#EXTINF:0,Mtv Beats
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:0,:Colors HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:0,Sony Six
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
+#EXTINF:0,Lotus Macau
+https://itpolly.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
+#EXTINF:0,Movies Now
+https://itpolly.iptv.digijadoo.net/live/movies_now/chunks.m3u8
+#EXTINF:0,Star Gold
+http://103.211.185.98:8082/75/index.m3u8?token=ab060ddd30598a9e55b7ecc87cc8d94efb978b6e-da8c9c804384bdef39f2bbc356870e5d-1598781201-1598770401&remote=27.131.12.246
+#EXTINF:0,Mtv Beats
+https://itpolly.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
